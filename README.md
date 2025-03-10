@@ -51,4 +51,20 @@ una alternativa para poder resolverlo por medio de paginas y con la ayuda de mis
 
 
 
-en proceso....(actualizado 09/03)
+4) Implementar funcion de sortear amigo
+Aca quiero remarcar que al principio agregue una variable llamada sorteo, en el cual esta conectada con el id "resultado", dejando este codigo:
+let sorteo = document.getElementById('resultado');
+
+
+![Sin título](https://github.com/user-attachments/assets/3ecdce08-71c5-4376-9eec-d47791eb421d)
+
+
+
+Con esto el programa funciona segun lo establecido con las lo pedido en la actividadm dejando prueba de la misma a continuacion.
+
+
+![Sin título](https://github.com/user-attachments/assets/29864728-4988-4f16-812d-0119b9bd0eff)
+
+
+Hasta la fecha no se descarta algunos agregados o modificaciones del challenger, hasta entonces doy por concluido este proyecto.
+(actualizado 09/03)
